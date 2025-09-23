@@ -1,20 +1,35 @@
 keynotes:
   name: Keynotes
+  person1_topic:
+    authors:
+    - roberta_pires
+    title: null
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
   person2_topic:
     authors:
-    - second_person
-    title: Second Person's Keynote Title
-    abstract_formats: [pdf]
-    materials_type: slides
-    materials_format: pdf
+    - viola_schmitt
+    title: null
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
   person3_topic:
     authors:
-    - third_person
-    title: Third Person's Keynote Title
-    abstract_formats: [md] 
-    materials_type: handout
-    materials_format: pdf
+    - violeta_vazquez
+    title: null
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  person4_topic:
+    authors:
+    - Chris_Kennedy
+    title: null
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
 
+    
 salted:
   name: SALTED
   person1_salted:
