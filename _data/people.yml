@@ -33,16 +33,16 @@ violeta_vazquez:
   institutions:
   - El Colegio de México
   website: null
-  roberta_pires:
+roberta_pires:
   name: Rooberta Pires de Oliveira
   institutions:
   - Universidade Federal de Santa Catarina
   website: null
-  chris_kennedy:
+chris_kennedy:
   name: Chris Kennedy
   institutions: University of Chicago 
   website: "https://semantics.uchicago.edu/kennedy/"
-  nicolas_loguercio:
+nicolas_loguercio:
   name: Nicolás Lo Guercio
   institutions:
   - Universidad de Buenos Aires
@@ -53,18 +53,18 @@ sofia_checchi:
   institutions:
   - Universidad de Buenos Aires
   website: null
-  maria_florencia_silva:
+maria_florencia_silva:
   name: María Florencia Silva
   institutions:
   - Universidad de Buenos Aires
   website: null
-  carla_mussini:
+carla_mussini:
   name: Carla Mussini
   institutions:
   - Universidad de Buenos Aires
   - Conicet
   website: null
-  eduarda_calado_barbosa:
+eduarda_calado_barbosa:
   name: Eduarda Calado Barbosa
   institutions:
   - null
