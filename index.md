@@ -68,7 +68,19 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 ## Organizing Committee
 
-Eduarda Calado Barbosa, Fernando Carranza, Ramiro Caso, Sofía Checchi, Nicolás Lo Guercio, Carla Mussini, Andrés Saab, María Florencia Silva, Eleonaro Orlando, Matías Verdecchia, Pablo Zdrojewski
+<ul>
+  {% for organizer_id in site.data.organizers %}
+    {% assign organizer = site.data.people[organizer_id] %}
+    <li>
+      {% if organizer.website %}
+        <a href="{{ organizer.website }}">{{ organizer.name }}</a>
+      {% else %}
+        {{ organizer.name }}
+      {% endif %}
+      ({{ organizer.institutions | join: ", " }})
+    </li>
+  {% endfor %}
+</ul>
 
 ## Sponsors
 
