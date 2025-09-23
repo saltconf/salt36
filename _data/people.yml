@@ -1,15 +1,72 @@
-first_person:
-  name: First Person
+fernando_carranza:
+  name: Fernando Carranza
   institutions:
-  - University1
-  website: "#"
-second_person:
-  name: Second Person
+  - Universidad de Buenos Aires
+  website: "https://fernando-carranza.github.io/index.html"
+andres_saab:
+  name: Andrés Saab
   institutions:
-  - University2
-  website: "#"
-third_person:
-  name: Third Person
+  - Universidad de Buenos Aires
+  website: "https://sites.google.com/view/andres-saab/p%C3%A1gina-principal?authuser=0"
+ramiro_caso:
+  name: Ramiro Caso
   institutions:
-  - University3
-  website: "#"
+  - Universidad de Buenos Aires
+  website: null
+pablo_Zdrojewski:
+  name: Pablo Zdrojevski
+  institutions:
+  - Universidad de Buenos Aires
+  website: "https://pablozd.github.io/"
+  matias_verdecchia:
+  name: Matías Verdecchia
+  institutions:
+  - Universidad de Buenos Aires
+  website: "https://matiasverdecchia.netlify.app/"
+  viola_schmitt:
+  name: Viola Schmitt
+  institutions:  
+  - Humboldt-Universität zu Berlin
+  website: "https://sites.google.com/view/viola-schmitt/home"
+violeta_vazquez:
+  name: Violeta Vázquez Rojas Maldonado
+  institutions:
+  - El Colegio de México
+  website: null
+  Rooberta_Pires:
+  name: Rooberta Pires de Oliveira
+  institutions:
+  - Universidade Federal de Santa Catarina
+  website: null
+  Chris_Kennedy:
+  name: Chris Kennedy
+  institutions: University of Chicago 
+  website: "https://semantics.uchicago.edu/kennedy/"
+  nicolas_loguercio:
+  name: Nicolás Lo Guercio
+  institutions:
+  - Universidad de Buenos Aires
+  - Conicet
+  website: null
+sofia_checchi:
+  name: Sofía Checchi
+  institutions:
+  - Universidad de Buenos Aires
+  website: null
+  maria_florencia_silva:
+  name: María Florencia Silva
+  institutions:
+  - Universidad de Buenos Aires
+  website: null
+  carla_mussini:
+  name: Carla Mussini
+  institutions:
+  - Universidad de Buenos Aires
+  - Conicet
+  website: null
+  eduarda_calado_barbosa:
+  name: Eduarda Calado Barbosa
+  institutions:
+  - null
+  website: null
+  
