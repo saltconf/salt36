@@ -1,0 +1,52 @@
+@use "config";
+
+#nav {
+    text-align: center;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0em;
+    padding: 0em;
+}
+
+#nav ul > :first-child {
+    border-top: 1px solid #eae9e6;
+}
+
+#nav ul li {
+    padding: 0.5em 0em;
+    border-bottom: 1px solid #eae9e6;
+}
+
+#nav a {
+    color: black;
+    border-bottom: none;
+}
+
+#nav a.current {
+    color: config.$primary;
+}
+
+#lsa-logo {
+    width: 50%;
+    margin: 1em 0em;
+}
+
+#reg-button {
+	display: inline-block;
+  padding: 0.75em 1em;
+	border-radius: 5pt;
+  background-color: config.$primary;
+	color: #fff;
+	font-weight: 700;
+}
+
+#reg-button:hover {
+	opacity: 0.85;
+  color: #fff;
+}
+
+#reg-button:active {
+	box-shadow: inset 0 3px 4px hsla(0, 0%, 0%, 0.2);
+}

@@ -1,0 +1,15 @@
+first_person:
+  name: First Person
+  institutions:
+  - University1
+  website: "#"
+second_person:
+  name: Second Person
+  institutions:
+  - University2
+  website: "#"
+third_person:
+  name: Third Person
+  institutions:
+  - University3
+  website: "#"

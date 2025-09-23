@@ -1,0 +1,51 @@
+@use "config";
+
+html {
+    padding-bottom: 50px;
+}
+
+body {
+    margin: 8px 0px;
+    width: 100%;
+    font-family: 'Avenir';
+    /* font-family: 'Lato', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif; */
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+
+a {
+    font-weight: 400;
+    color: config.$primary;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+a:hover {
+    color: config.$accent;
+}
+
+table.reg tr {
+    text-align: center;
+}
+
+table.reg th {
+    color: config.$accent;
+}
+
+table.reg {
+    width: 100%;
+    margin: 0 auto;
+}
+
+hr {
+    border-style: solid;
+    border-color: config.$accent;
+    border-width: 0.5px;
+}
+
+.alert {
+    color: config.$accent;
+}

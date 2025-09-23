@@ -1,0 +1,44 @@
+{% assign talkinfo = site.data.presentations[page.group][page.talkid] %}
+
+<head>
+    <title>SALT{{ site.saltnum }} ▪ {{ talkinfo.title }}</title>
+    {% include head.html %}
+</head>
+<html>
+    <body>
+        <div class="container" >
+            <div class="row" >
+                {% include logo.html %}
+
+                <div class="row" >
+                    <div id="nav" class="three columns" >
+                        <ul>
+                            {% for item in site.data.navigation %}
+                            <li>
+                                <a href={% if item.relative %} "{{ item.url | relative_url }}" {% else %} "{{ item.url }}" {% endif %} {% if page.url == item.url %}class="current"{% endif %}>{{ item.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div id="content" class="nine columns" >
+                        <h2>
+                            {{ talkinfo.title }} 
+                            {% if talkinfo.materials_format != null %}[<a href="{{ "/presentation-materials/" | append: page.talkid | append: "." | append: talkinfo.materials_format | relative_url }}">{% if page.group == "posters" %}poster{% else %}{{ talkinfo.materials_type }}{% endif %}</a>]{% endif %}
+                        </h2>
+                        {% for authorid in talkinfo.authors %}
+                        {% assign author = site.data.people[authorid] %}
+                        {% if author.website != null %}
+                        <a class="authorwebsite" href="{{ author.website }}">{{ author.name }}</a> ({{ author.institutions | join: ", " }})
+                        {% else %}
+                        {{ author.name }} ({{ author.institutions | join: ", " }})
+                        {% endif %}
+                        {% unless forloop.last %}<br/>{% endunless %}
+                        {% endfor %}
+                        <br/><br/>
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

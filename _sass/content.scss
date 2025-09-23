@@ -1,0 +1,30 @@
+@mixin content-styles() {
+  #content ul {
+      padding-left: 1.25em;
+  }
+
+  #speakers {
+      /* padding-left: 18px; */
+      padding-left: 0px;
+      line-height: 3em;
+      list-style-type: none;
+  }
+
+  #speakers a {
+      border-bottom: none;
+  }
+
+  #speakers li:nth-child(even):before {
+      margin-right: 0.5em;
+      content: url("../images/salt-bullet.png");
+      vertical-align: -12%;
+      text-align: center;
+  }
+
+  #speakers li:nth-child(odd):before {
+      margin-right: 0.5em;
+      content: url("../images/salt-bullet.png");
+      vertical-align: -12%;
+      text-align: center;
+  }
+}

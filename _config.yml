@@ -1,0 +1,11 @@
+uni: University of Somewhere
+dates: "May ... &ndash; ..."
+year: "20XX"
+saltnum: 3X
+baseurl: ""
+
+#url: "localhost"
+url: https://saltconf.github.io
+
+sass:
+    sass_dir: _sass

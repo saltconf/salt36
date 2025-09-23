@@ -1,0 +1,31 @@
+- title: Home
+  url: /
+  relative: true
+
+- title: Conference program
+  url: /conference-program/
+  relative: true
+
+- title: Abstracts
+  url: /abstracts/
+  relative: true
+
+- title: Call for abstracts
+  url: /call-for-abstracts/
+  relative: true
+
+- title: SALTED
+  url: /salted/
+  relative: true
+
+- title: Registration
+  url: /registration/
+  relative: true
+
+- title: Local information
+  url: /local-information/
+  relative: true
+
+# - title: Conference gear
+#   url: ...
+#   relative: false

@@ -1,0 +1,28 @@
+<head>
+    <title>SALT{{ site.saltnum }} ▪ {{ page.title }}</title>
+    {% include head.html %}
+</head>
+<html>
+    <body>
+        <div class="container" >
+            <div class="row" >
+                {% include logo.html %}
+
+                <div class="row" >
+                    <div id="nav" class="three columns" >
+                        <ul>
+                            {% for item in site.data.navigation %}
+                            <li>
+                                <a href={% if item.relative %} "{{ item.url | relative_url }}" {% else %} "{{ item.url }}" {% endif %} {% if page.url == item.url %}class="current"{% endif %}>{{ item.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div id="content" class="nine columns" >
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

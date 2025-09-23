@@ -1,0 +1,69 @@
+keynotes:
+  name: Keynotes
+  person2_topic:
+    authors:
+    - second_person
+    title: Second Person's Keynote Title
+    abstract_formats: [pdf]
+    materials_type: slides
+    materials_format: pdf
+  person3_topic:
+    authors:
+    - third_person
+    title: Third Person's Keynote Title
+    abstract_formats: [md] 
+    materials_type: handout
+    materials_format: pdf
+
+salted:
+  name: SALTED
+  person1_salted:
+    authors:
+    - first_person
+    title: "First Person's SALTED Title: Whatever it is"
+    abstract_formats: [md]
+    materials_type: null
+    materials_format: null
+
+talks:
+  name: Talks
+  person1_nouns:
+    authors:
+    - first_person
+    title: Just an example of a talk
+    abstract_formats: [md]
+    materials_type: slides
+    materials_format: pdf
+  person2_verbs:
+    authors:
+    - second_person
+    - third_person
+    title: Another <i>example</i> of a talk
+    abstract_formats: [md] 
+    materials_type: null
+    materials_format: null
+
+posters:
+  name: Posters
+  person1_poster:
+    authors:
+    - first_person
+    title: Here's a poster!
+    lightning_bin: 0
+    abstract_formats: [md] 
+    materials_format: pdf
+  person2_poster:
+    authors:
+    - second_person
+    - first_person
+    title: Another poster
+    lightning_bin: 0
+    abstract_formats: [md] 
+    materials_format: pdf
+  person3_poster:
+    authors:
+    - third_person
+    title: 'My Poster: With a Subtitle'
+    lightning_bin: 1
+    abstract_formats: [md]
+    materials_format: null
