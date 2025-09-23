@@ -33,12 +33,12 @@ violeta_vazquez:
   institutions:
   - El Colegio de México
   website: null
-  Rooberta_Pires:
+  roberta_pires:
   name: Rooberta Pires de Oliveira
   institutions:
   - Universidade Federal de Santa Catarina
   website: null
-  Chris_Kennedy:
+  chris_kennedy:
   name: Chris Kennedy
   institutions: University of Chicago 
   website: "https://semantics.uchicago.edu/kennedy/"
@@ -69,4 +69,3 @@ sofia_checchi:
   institutions:
   - null
   website: null
-  
