@@ -1,4 +1,4 @@
-# SALT34 Website
+# SALT Template Website
 
 This repository houses a template [website](https://saltconf.github.io/salt3X/) for a SALT conference. The content and design are based on the [the SALT29 website](http://salt.linguistics.ucla.edu/29/), with source code substantially refactored following [the repository](https://github.com/saltconf/salt34) housing the [the SALT34 website](http://salt.linguistics.ucla.edu/34/). 
 
