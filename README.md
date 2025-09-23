@@ -1,9 +1,10 @@
 # SALT34 Website
 
-This repository houses [the website for SALT36](https://saltconf.github.io/salt36/). This website was forked directly from [the repository](https://github.com/saltconf/salt34) housing the [the SALT34 website](http://salt.linguistics.ucla.edu/34/), itself forked from [the repository](https://github.com/saltconf/salt29) housing the [the SALT29 website](http://salt.linguistics.ucla.edu/29/).
+This repository houses a template [website](https://saltconf.github.io/salt3X/) for a SALT conference. The content and design are based on the [the SALT29 website](http://salt.linguistics.ucla.edu/29/), with source code substantially refactored following [the repository](https://github.com/saltconf/salt34) housing the [the SALT34 website](http://salt.linguistics.ucla.edu/34/). 
 
-Following the SALT34 overhaul, the site uses jekyll to factor content from structure.
+Future SALTs may start by forking this repo. Then:
 
-1. Change information site-wide by editing the [YAML](https://yaml.org/) files in `_data`.
-2. Edit site-wide styles in `_sass`. Style files uses [SASS](https://sass-lang.com/) rather than vanilla CSS.
+1. Change information site-wide by editing the [YAML](https://yaml.org/) files in `_data`, starting with `_config.yml`.
+2. Edit site-wide styles in `_sass`. Style files uses [SASS](https://sass-lang.com/) rather than vanilla CSS. In particular, the primary and accent colors can be adjusted in `_config.scss`.
 3. Edit page structure site-wide in `_layouts`. This page structure supports [liquid templates](https://shopify.github.io/liquid/), allowing flexible population of page contents, e.g., automatic construction of the program from YAML. 
+4. Upload banner images, bullet icons, and favicons to provide local color, as desired.
