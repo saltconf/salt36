@@ -13,12 +13,13 @@ layout: default
    }
 </script>
 
-All talks and posters at SALT{{ site.saltnum }} will take place on ...
+All talks and posters at SALT{{ site.saltnum }} will take place on the [Bonifacio Annex](https://www.google.com/maps/place/EDIFICIO+ANEXO+FACULTAD+FILOSOF%C3%8DA+(UBA)/@-34.6283188,-58.4461018,21z/) of the FFyL UBA.
 
-Talk sessions and on-site registration will take place on the first floor of ..., and coffee breaks will take place on the first floor of .... On Wednesday evening (May ...), there will be a reception concurrent with the poster session, both in ....
+<!---Talk sessions and on-site registration will take place on the first floor of ..., and coffee breaks will take place on the first floor of .... On Wednesday evening (May ...), there will be a reception concurrent with the poster session, both in ....--->
 
 <p>
-  <b>NB:</b> This schedule is preliminary and subject to change.
+  <!---<b>NB:</b> This schedule is preliminary and subject to change.--->
+  <b>Program : TBD</b>
 </p>
 
 {% assign lightning_bin = 0 %}
