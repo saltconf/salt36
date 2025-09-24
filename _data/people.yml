@@ -1,12 +1,16 @@
+##############
+# Organizers #
+##############
 fernando_carranza:
   name: Fernando Carranza
   institutions:
-  - Universidad de Buenos Aires
+  - UBA
   website: "https://fernando-carranza.github.io/index.html"
 andres_saab:
   name: Andrés Saab
   institutions:
-  - Universidad de Buenos Aires
+  - UBA
+  - IIF/SADAF/CONICET
   website: "https://sites.google.com/view/andres-saab/p%C3%A1gina-principal?authuser=0"
 ramiro_caso:
   name: Ramiro Caso
@@ -17,38 +21,19 @@ ramiro_caso:
 pablo_zdrojewski:
   name: Pablo Zdrojevski
   institutions:
-  - Universidad de Buenos Aires
+  - UBA
   website: "https://pablozd.github.io/"
 matias_verdecchia:
   name: Matías Verdecchia
   institutions:
-  - Universidad de Buenos Aires
+  - UBA
+  - IIF/SADAF/CONICET
   website: "https://matiasverdecchia.netlify.app/"
-viola_schmitt:
-  name: Viola Schmitt
-  institutions:  
-  - Humboldt-Universität zu Berlin
-  website: "https://sites.google.com/view/viola-schmitt/home"
-violeta_vazquez:
-  name: Violeta Vázquez Rojas Maldonado
-  institutions:
-  - El Colegio de México
-  website: null
-roberta_pires:
-  name: Roberta Pires de Oliveira
-  institutions:
-  - Universidade Federal de Santa Catarina
-  website: null
-chris_kennedy:
-  name: Chris Kennedy
-  institutions: University of Chicago 
-  website: "https://semantics.uchicago.edu/kennedy/"
 nicolas_loguercio:
   name: Nicolás Lo Guercio
   institutions:
-  - IIF(SADAF)
-  - Conicet
-  - Universidad de Buenos Aires
+  - UBA
+  - IIF/SADAF/CONICET
   website: null
 sofia_checchi:
   name: Sofía Checchi
@@ -58,32 +43,63 @@ sofia_checchi:
 maria_florencia_silva:
   name: María Florencia Silva
   institutions:
-  - Universidad de Buenos Aires
+  - UBA
   website: null
 carla_mussini:
   name: Carla Mussini
   institutions:
-  - Universidad de Buenos Aires
-  - Conicet
+  - UBA
+  - IIF/SADAF/CONICET
+  website: null
+virginia_duerto:
+  name: Virginia Duerto
+  institutions:
+  - UBA
+  - IIF/SADAF/CONICET
   website: null
 eduarda_calado_barbosa:
   name: Eduarda Calado Barbosa
   institutions:
-  - null
+  - FAPESP/UNICAMP
   website: null
 federico_jaimes:
   name: Federico Jaimes
   institutions:
-  - Universidad de Buenos Aires
+  - UBA
+  - IIF/SADAF/CONICET
   website: null
 leandro-cherñavsky:
   name: Leandro Cherñavsky
   institutions:
-  - Universidad de Buenos Aires
+  - UBA
+  - IIF/SADAF/CONICET
   website: null
 eleonora_orlando:
   name: Eleonora Orlando
   institutions:
-  - IIF-SADAF-CONICET
-  - Universidad de Buenos Aires
-   website: "https://bicyt.conicet.gov.ar/fichas/p/eleonora-eva-orlando"
+  - UBA
+  - IIF/SADAF/CONICET
+  website: "https://bicyt.conicet.gov.ar/fichas/p/eleonora-eva-orlando"
+
+####################
+# Invited speakers #
+####################
+viola_schmitt:
+  name: Viola Schmitt
+  institutions:
+  - Humboldt-Universität zu Berlin
+  website: "https://sites.google.com/view/viola-schmitt/home"
+violeta_vazquez:
+  name: Violeta Vázquez Rojas Maldonado
+  institutions:
+  - El Colegio de México
+  website: "https://cell.colmex.mx/es/personal-academico/vazquez-rojas-maldonado-violeta/"
+roberta_pires:
+  name: Roberta Pires de Oliveira
+  institutions:
+  - Universidade Federal de Santa Catarina
+  website: "https://robertapires.paginas.ufsc.br/"
+chris_kennedy:
+  name: Chris Kennedy
+  institutions: University of Chicago
+  website: "https://semantics.uchicago.edu/kennedy/"
