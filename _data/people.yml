@@ -38,23 +38,23 @@ nicolas_loguercio:
 sofia_checchi:
   name: Sofía Checchi
   institutions:
-  - UNAHUR-CONICET/TALK
+  - UNAHUR
+  - CONICET/TALK
   website: null
 maria_florencia_silva:
   name: María Florencia Silva
   institutions:
   - UBA
+  - IIF/SADAF/CONICET
   website: null
 carla_mussini:
   name: Carla Mussini
   institutions:
-  - UBA
   - IIF/SADAF/CONICET
   website: null
 virginia_duerto:
   name: Virginia Duerto
   institutions:
-  - UBA
   - IIF/SADAF/CONICET
   website: null
 eduarda_calado_barbosa:
