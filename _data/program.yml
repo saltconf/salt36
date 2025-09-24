@@ -5,78 +5,78 @@
 # Session 5: [insert chair]
 # Session 6: [insert chair]
 
-- day: tuesday
-  date: Tuesday, May ...
-  events:
-  - type: break
-    name: Registration
-    time: "8:00–8:45"
-  - type: welcome
-    name: Welcome
-    chairid: first_person
-    time: "8:45–9:00"
-  - type: talk_session
-    name: Talk Session 1
-    chairid: second_person
-    subevents:
-    - time: "9:00-9:40"
-      talkid: person1_nouns
-    - time: "9:40-10:20"
-      talkid: person2_verbs
-  - type: break
-    name: Coffee Break
-    time: "11:00-11:20"
-  - type: workshop
-    chairid: first_person
-    name: Title of the workshop
-    time: "11:20-12:50"
-  - type: break
-    name: Lunch (<i>not provided</i>)
-    time: "12:50-14:20"
-  - type: keynote
-    time: "14:20-15:20"
-    chairid: third_person
-    talkid: person2_topic
-  - type: break
-    name: Coffee Break
-    time: "15:20-15:40"
-  - type: talk_session
-    name: "Talk Session 2"
-    chairid: third_person
-    subevents:
-    - time: "15:40-16:20"
-      talkid: ...
-    - time: "16:20-17:00"
-      talkid: ...
-    - time: "17:00-17:40"
-      talkid: ...
-  - type: break
-    name: Happy Hour at ... (<a href="#">map</a>)
-    time: "18:30–21:00"
-- day: wednesday
-  date: Wednesday, May ...
-  events:
-  - type: break
-    name: Run starting from ... 
-    time: "7:00–8:00"
-  - type: lightning
-    chairid: first_person
-    name: "Lightning Talk Session A"
-    time: "11:20-12:00"
-  - type: break
-    name: Coffee Break
-    time: "12:00-12:20"
-  - type: lightning
-    chairid: first_person
-    name: "Lightning Talk Session B"
-    time: "12:20-13:00"
-  - type: break
-    name: Lunch (<i>not provided</i>)
-    time: "13:00-14:30"
-  - type: keynote
-    time: "14:30-15:30"
-    chairid: ...
-    talkid: ...
-  - type: break
-    name: Coffee Break
-    time: "15:30-15:50"
+#- day: tuesday
+#  date: Tuesday, May ...
+#  events:
+#  - type: break
+#    name: Registration
+#    time: "8:00–8:45"
+#  - type: welcome
+#    name: Welcome
+#    chairid: first_person
+#    time: "8:45–9:00"
+#  - type: talk_session
+#    name: Talk Session 1
+#    chairid: second_person
+#    subevents:
+#    - time: "9:00-9:40"
+#      talkid: person1_nouns
+#    - time: "9:40-10:20"
+#      talkid: person2_verbs
+#  - type: break
+#    name: Coffee Break
+#    time: "11:00-11:20"
+#  - type: workshop
+#    chairid: first_person
+#    name: Title of the workshop
+#    time: "11:20-12:50"
+#  - type: break
+#    name: Lunch (<i>not provided</i>)
+#    time: "12:50-14:20"
+#  - type: keynote
+#    time: "14:20-15:20"
+#    chairid: third_person
+#    talkid: person2_topic
+#  - type: break
+#    name: Coffee Break
+#    time: "15:20-15:40"
+#  - type: talk_session
+#    name: "Talk Session 2"
+#    chairid: third_person
+#    subevents:
+#    - time: "15:40-16:20"
+#      talkid: ...
+#    - time: "16:20-17:00"
+#      talkid: ...
+#    - time: "17:00-17:40"
+#      talkid: ...
+#  - type: break
+#    name: Happy Hour at ... (<a href="#">map</a>)
+#    time: "18:30–21:00"
+#- day: wednesday
+#  date: Wednesday, May ...
+#  events:
+#  - type: break
+#    name: Run starting from ... 
+#    time: "7:00–8:00"
+#  - type: lightning
+#    chairid: first_person
+#    name: "Lightning Talk Session A"
+#    time: "11:20-12:00"
+#  - type: break
+#    name: Coffee Break
+#    time: "12:00-12:20"
+#  - type: lightning
+#    chairid: first_person
+#    name: "Lightning Talk Session B"
+#    time: "12:20-13:00"
+#  - type: break
+#    name: Lunch (<i>not provided</i>)
+#    time: "13:00-14:30"
+#  - type: keynote
+#    time: "14:30-15:30"
+#    chairid: ...
+#    talkid: ...
+#  - type: break
+#    name: Coffee Break
+#    time: "15:30-15:50"
