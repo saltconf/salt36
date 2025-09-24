@@ -3,9 +3,8 @@ title: SALTED
 layout: default
 ---
 
-As part of SALT{{ site.saltnum }}, the SALT Equity and Diversity Committee (SALTED) and the SALT{{ site.saltnum }} organizing committee will hold a workshop at ... on May ..., {{ site.year }}: *workshop title*.
-
-...
+<!---As part of SALT{{ site.saltnum }}, the SALT Equity and Diversity Committee (SALTED) and the SALT{{ site.saltnum }} organizing committee will hold a workshop at ... on May ..., {{ site.year }}: *workshop title*.--->
+TBD
 
 <!-- 
 <ul id="speakers">
@@ -16,4 +15,4 @@ As part of SALT{{ site.saltnum }}, the SALT Equity and Diversity Committee (SALT
 </ul>
 -->
 
-Abstracts for each panelist's presentation can be found <a href="{{ "/abstracts#salted" | relative_url }}">here</a>.
+<!---Abstracts for each panelist's presentation can be found <a href="{{ "/abstracts#salted" | relative_url }}">here</a>.--->
