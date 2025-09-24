@@ -11,9 +11,10 @@ andres_saab:
 ramiro_caso:
   name: Ramiro Caso
   institutions:
-  - Universidad de Buenos Aires
-  website: null
-pablo_Zdrojewski:
+  - UBA 
+  - IIF/SADAF/CONICET
+  website: "https://r-caso.github.io/"
+pablo_zdrojewski:
   name: Pablo Zdrojevski
   institutions:
   - Universidad de Buenos Aires
@@ -45,13 +46,14 @@ chris_kennedy:
 nicolas_loguercio:
   name: Nicolás Lo Guercio
   institutions:
-  - Universidad de Buenos Aires
+  - IIF(SADAF)
   - Conicet
+  - Universidad de Buenos Aires
   website: null
 sofia_checchi:
   name: Sofía Checchi
   institutions:
-  - Universidad de Buenos Aires
+  - UNAHUR-CONICET/TALK
   website: null
 maria_florencia_silva:
   name: María Florencia Silva
@@ -69,3 +71,19 @@ eduarda_calado_barbosa:
   institutions:
   - null
   website: null
+federico_jaimes:
+  name: Federico Jaimes
+  institutions:
+  - Universidad de Buenos Aires
+  website: null
+leandro-cherñavsky:
+  name: Leandro Cherñavsky
+  institutions:
+  - Universidad de Buenos Aires
+  website: null
+eleonora_orlando:
+  name: Eleonora Orlando
+  institutions:
+  - IIF-SADAF-CONICET
+  - Universidad de Buenos Aires
+   website: "https://bicyt.conicet.gov.ar/fichas/p/eleonora-eva-orlando"
