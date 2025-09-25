@@ -18,6 +18,7 @@ If you plan to attend the conference and anticipate needing any special accomoda
 <hr/>
 
 Data regarding registration will be anounced soon.
+
 <!--
 Early registration runs from March ...-–April ..., {{ site.year }}. Late registration runs from April ...–-May ..., {{ site.year }}.
 
