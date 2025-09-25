@@ -1,12 +1,38 @@
-- date: "February 20, 2026"
+- date: "Oct 1"
+  text: "Abstract submissions open"
+
+- date: "Dec 15"
   text: "Abstract deadline"
 
-- date: "April 2026"
+- date: "TBD"
+  text: "Abstract reviews due"
+
+- date: "TBD"
   text: "Decision notification"
 
-- date: "July 29, 2026"
+- date: "TBD"
+  text: "Registration opens"
+
+- date: "TBD"
+  text: "Early registration closes"
+
+- date: "TBD"
+  text: "Late registration closes"
+
+- date: "July 29"
   text: "Conference begins"
 
-- date: "July 31, 2026"
+- date: "July 31"
   text: "Conference ends"
 
+# - date: "TBD"
+#   text: "Proceedings submission deadline"
+# 
+# - date: "TBD"
+#   text: "Proceedings revisions sent out"
+# 
+# - date: "TBD"
+#   text: "Proceedings revisions due"
+# 
+# - date: "TBD"
+#   text: "Proceedings is published"
