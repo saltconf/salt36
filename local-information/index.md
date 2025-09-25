@@ -15,7 +15,7 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the [{{ site.
 <hr/>
 
 
-## Hotels
+<!--## Hotels
 
 There are two hotels within walking distance of campus:<br>
 
@@ -30,30 +30,17 @@ There are two hotels within walking distance of campus:<br>
 
 
 <hr/>
-
+-->
 
 ## Food and Drink
 
-The closest food to campus can be found in the ...
+Some of the closest places to the campus where you can have lunch or dinner are: 
 
-For a more leisurely lunch or dinner, there are a range of excellent culinary offerings a short drive from campus. Some of our favorite restaurants are:
+- [La posta de Achaval](https://maps.app.goo.gl/jjV7uPfc7cSkkF2T6)
+- [Amo Restaurante](https://maps.app.goo.gl/3h3d6e1wnyGDvC8z9)
+- [Orgullo](https://maps.app.goo.gl/oJ8UNb9487J1BbCT7)
 
-...
-
-A few good breakfast spots are:
-
-
-The coffee options near campus are ... 
-
-
-
-## Movies
-
-...
-
-
-<hr/>
-
+<!--
 ## Music
 
 ...
@@ -63,5 +50,5 @@ The coffee options near campus are ...
 
 ## Museums
 
-...
+...-->
 
