@@ -5,7 +5,7 @@ layout: default
   
 Registration for SALT{{ site.saltnum }} will be handled by the Linguistic Society of America.
 
-Please follow the link below to find instructions and information for online registration.
+<!--Please follow the link below to find instructions and information for online registration.-->
   
 <!-- 
 <div style="text-align: center; margin-bottom: 1em;">
@@ -13,10 +13,12 @@ Please follow the link below to find instructions and information for online reg
 </div>
 -->
 
-If you plan to attend the conference and anticipate needing ASL/English interpretation, please notify the organizers at <span style="font-family: monospace">[email.address](mailto:...)</span> by March ..., {{ site.year }}.
+If you plan to attend the conference and anticipate needing any special accomodation, please notify the organizers at <span style="font-family: monospace">[salt36.uba@gmail.com](mailto:salt36.uba@gmail.com)</span> by May 1, {{ site.year }}.
   
 <hr/>
 
+Data regarding registration will be anounced soon.
+<!--
 Early registration runs from March ...-–April ..., {{ site.year }}. Late registration runs from April ...–-May ..., {{ site.year }}.
 
 <table class="reg">
@@ -41,3 +43,4 @@ Early registration runs from March ...-–April ..., {{ site.year }}. Late regis
 </table>
 <br/>
 <hr/>
+-->
