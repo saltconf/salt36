@@ -68,8 +68,8 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 ## Organizing Committee
 
-<table class="speakers">
-  <tbody>
+<ul id="speakers">
+
     {% for organizer_id in site.data.organizers %}
     {% assign organizer = site.data.people[organizer_id] %}
     <li>
@@ -79,10 +79,9 @@ For questions or comments, please contact <span style="font-family: monospace">[
         {{ organizer.name }}
       {% endif %}
       ({{ organizer.institutions | join: ", " }})
-    </li>
+      </li>
   {% endfor %}
-  </tbody>
-</table>
+</ul>
 
 ## Sponsors
 
