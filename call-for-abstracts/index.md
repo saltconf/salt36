@@ -13,7 +13,7 @@ SALT{{ site.saltnum }} will be held in-person in Buenos Aires, Argentina.
 
 **<span class="alert">Deadline:</span> Monday, December 15, 2025**, 23:59 (UTC)
 
-Submissions should be made via the SALT{{ site.saltnum }} OpenReview site (<a href="#">link</a>). We expect to notify authors of their acceptance in April 2026.
+Submissions should be made via the SALT{{ site.saltnum }} OpenReview site (<a href="https://openreview.net/group?id=saltconf.github.io/SALT/2026/Conference">link</a>). We expect to notify authors of their acceptance in April 2026.
 
 
 <hr/>
