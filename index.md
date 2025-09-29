@@ -7,6 +7,9 @@ Semantics and Linguistic Theory (SALT) {{ site.saltnum }} will be hosted by the 
 
 For questions or comments, please contact <span style="font-family: monospace">[salt36.uba@gmail.com](mailto:salt36.uba@gmail.com)</span>. By attending, you agree to abide by the [Code of Conduct]({{ "/code-of-conduct/" | relative_url }}).
 
+
+<!--- As part of SALT{{ site.saltnum }}, the SALT Equity and Diversity Committee (SALTED) and the SALT{{ site.saltnum }} organizing committee will hold a workshop: *...*. --->
+
 <hr/>
 
 ## Invited speakers
