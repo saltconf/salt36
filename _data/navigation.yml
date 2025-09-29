@@ -14,10 +14,6 @@
   url: /abstracts/
   relative: true
 
-- title: SALTED
-  url: /salted/
-  relative: true
-
 - title: Registration
   url: /registration/
   relative: true

@@ -29,15 +29,6 @@ keynotes:
     materials_type: null
     materials_format: null
 
-#salted:
-#  name: SALTED
-#  person1_salted:
-#    authors:
-#    - first_person
-#    title: "First Person's SALTED Title: Whatever it is"
-#    abstract_formats: [md]
-#    materials_type: null
-#    materials_format: null
 
 talks:
   name: Talks
