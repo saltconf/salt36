@@ -13,8 +13,15 @@ SALT{{ site.saltnum }} will be held in-person in Buenos Aires, Argentina.
 
 **<span class="alert">Deadline:</span> Monday, December 15, 2025**, 23:59 (UTC)
 
-Submissions should be made via the SALT{{ site.saltnum }} OpenReview site (<a href="https://openreview.net/group?id=saltconf.github.io/SALT/2026/Conference">link</a>). We expect to notify authors of their acceptance in April 2026.
+Submissions should be made via the SALT{{ site.saltnum }} OpenReview site (<a href="https://openreview.net/group?id=saltconf.github.io/SALT/2026/Conference">link</a>). We expect to notify authors of their acceptance in early April 2026.
 
+Please note that creating an account on the OpenReview platform can sometimes take a little time to get fully activated (12 hours or so). If you plan to submit and do not have an OpenReview account, please make sure to do so as soon as possible in order to ensure that the account is active before the deadline.
+
+New profiles created without an institutional email will go through a moderation process that can take up to two weeks, so we strongly encourage you to use your institutional email whenever possible.
+
+On the submission page, you can summarize your abstract in one or two lines in the abstract field. This is not going to be used for evaluation purposes, it is just a requirement by the submission portal.
+
+For question and further information, please contact us at: <a href="mailto:salt36.uba@gmail.com">salt36.uba@gmail.com</a>
 
 <hr/>
 
