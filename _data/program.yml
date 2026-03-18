@@ -5,9 +5,9 @@
 # Session 5: [insert chair]
 # Session 6: [insert chair]
 
-#- day: tuesday
-#  date: Tuesday, May ...
-#  events:
+- day: tuesday
+  date: Tuesday, May ...
+  events:
 #  - type: break
 #    name: Registration
 #    time: "8:00–8:45"
@@ -15,6 +15,12 @@
 #    name: Welcome
 #    chairid: first_person
 #    time: "8:45–9:00"
+  - type: talk_session
+    name:  Session 1
+    chairid: ramiro_caso
+    subevents:
+    - time: "10:00-10:40"
+      talkid: carranza_test
 #  - type: talk_session
 #    name: Talk Session 1
 #    chairid: second_person

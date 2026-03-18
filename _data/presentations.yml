@@ -32,6 +32,13 @@ keynotes:
 
 talks:
   name: Talks
+  carranza_test:
+    authors:
+    - fernando_carranza
+    title: alleged poster for a fictional test conference
+    abstract_formats: "https://osf.io/ha5yf/"
+    materials_type: null
+    materials_format: null
   #person1_nouns:
   #  authors:
   #  - first_person
