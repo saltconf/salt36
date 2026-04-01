@@ -1,29 +1,38 @@
 - date: "Oct 1"
   text: "Abstract submissions open"
+  past: true
 
 - date: "Dec 15"
   text: "Abstract deadline"
+  past: true
 
 - date: "Feb 15"
   text: "Abstract reviews due"
+  past: true
 
 - date: "TBD"
   text: "Decision notification"
+  past: true
 
 - date: "TBD"
   text: "Registration opens"
+  past: false
 
 - date: "TBD"
   text: "Early registration closes"
+  past: false
 
 - date: "TBD"
   text: "Late registration closes"
+  past: false
 
 - date: "July 29"
   text: "Conference begins"
+  past: false
 
 - date: "July 31"
   text: "Conference ends"
+  past: false
 
 # - date: "TBD"
 #   text: "Proceedings submission deadline"

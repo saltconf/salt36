@@ -55,16 +55,19 @@ For questions or comments, please contact <span style="font-family: monospace">[
     {% for milestone in site.data.important_dates %}
     <tr>
       <td class="time">
+        {% if milestone.past %}<s>{% endif %}
         [{{ milestone.date }}]
+        {% if milestone.past %}</s>{% endif %}
       </td>
       <td>
+        {% if milestone.past %}<s>{% endif %}
         {{ milestone.text }}
+        {% if milestone.past %}</s>{% endif %}
       </td>
     </tr>
     {% endfor %}
   </tbody>
 </table>
-
 <hr/>
 
 ## Organizing Committee

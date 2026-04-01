@@ -19,8 +19,7 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the [Bonifaci
 
 <p>
   <!---<b>NB:</b> This schedule is preliminary and subject to change.--->
-  <!---<b>NB:</b> This comment is only to force deployment.--->
-  <b>Program : TBD</b>
+   <b>Program : TBD</b>
 </p>
 
 {% assign lightning_bin = 0 %}
