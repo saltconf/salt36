@@ -80,6 +80,21 @@ eleonora_orlando:
   - UBA
   - IIF/SADAF/CONICET
   website: "https://bicyt.conicet.gov.ar/fichas/p/eleonora-eva-orlando"
+maria_belen_tobares:
+  name: María Belén Tobares
+  institutions:
+  - UBA
+  website: null
+luana_vateff:
+  name: Luana Vateff
+  institutions:
+  - UBA
+  website: null
+martina_lisa:
+  name: Martina Lisa
+  institutions:
+  - UBA
+  website: null
 
 ####################
 # Invited speakers #
