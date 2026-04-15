@@ -5,22 +5,17 @@ layout: default
   
 Registration for SALT{{ site.saltnum }} will be handled by the Linguistic Society of America.
 
-<!--Please follow the link below to find instructions and information for online registration.-->
+Please follow the link below to find instructions and information for online registration.
   
-<!-- 
 <div style="text-align: center; margin-bottom: 1em;">
-  <a href="https://www.surveymonkey.com/r/V2BB3Z7" id="reg-button">Register Here</a>
+  <a href="https://www.surveymonkey.com/r/NK3G7YB" id="reg-button">Register Here</a>
 </div>
--->
 
-If you plan to attend the conference and anticipate needing any special accomodation, please notify the organizers at <span style="font-family: monospace">[salt36.uba@gmail.com](mailto:salt36.uba@gmail.com)</span> by May 1, {{ site.year }}.
+If you plan to attend the conference and anticipate needing any special accomodation, please notify the organizers at <span style="font-family: monospace">[salt36.uba@gmail.com](mailto:salt36.uba@gmail.com)</span> by July 1, {{ site.year }}.
   
 <hr/>
 
-Data regarding registration will be anounced soon.
-
-<!--
-Early registration runs from March ...-–April ..., {{ site.year }}. Late registration runs from April ...–-May ..., {{ site.year }}.
+Early registration runs from April 15-–June 29, {{ site.year }}. Late registration runs from June 30-July 31, {{ site.year }}.
 
 <table class="reg">
   <tbody>
@@ -32,16 +27,20 @@ Early registration runs from March ...-–April ..., {{ site.year }}. Late regis
     </tr>
     <tr>
       <td>Students</td>
-      <td>$110</td>
-      <td>$130</td>
+      <td>$100</td>
+      <td>$120</td>
     </tr>
     <tr>
-      <td>All others</td>
-      <td>$165</td>
+      <td>Postdocs and visiting faculty</td>
+      <td>$140</td>
+      <td>$160</td>
+    </tr>
+    <tr>
+      <td>Faculty</td>
+      <td>$170</td>
       <td>$190</td>
     </tr>
   </tbody>
 </table>
 <br/>
 <hr/>
--->

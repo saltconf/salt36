@@ -14,15 +14,15 @@
   text: "Decision notification"
   past: true
 
-- date: "TBD"
+- date: "April 15"
   text: "Registration opens"
   past: false
 
-- date: "TBD"
+- date: "June 29"
   text: "Early registration closes"
   past: false
 
-- date: "TBD"
+- date: "June 31"
   text: "Late registration closes"
   past: false
 
