@@ -15,7 +15,7 @@ If you plan to attend the conference and anticipate needing any special accomoda
   
 <hr/>
 
-Early registration runs from April 15-–June 29, {{ site.year }}. Late registration runs from June 30-July 31, {{ site.year }}.
+Early registration runs from April 15-June 29, {{ site.year }}. Late registration runs from June 30-July 31, {{ site.year }}.
 
 <table class="reg">
   <tbody>
