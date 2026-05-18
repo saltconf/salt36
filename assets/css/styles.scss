@@ -1,3 +1,26 @@
 ---
 ---
 @use "main";
+
+.map-link {
+  display: inline-block;
+  font-size: 0.65em;
+  padding: 0px 4px;
+  vertical-align: super;
+  opacity: 0.6;
+  border-bottom: none;
+}
+.map-link:hover {
+  opacity: 1;
+}
+
+.wap-link {
+  border-bottom: none;
+  padding: 0px 4px;
+}
+
+.wap-link img {
+  width: 1em;
+  height: 1em;
+  vertical-align: center;
+}
