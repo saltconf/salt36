@@ -17,7 +17,7 @@ Uber and Cabify are safe and quite cheap for short distances. You can also take
 the bus or the subway (most of them can be paid with credit card). Here’s a map
 with the closest important streets and public transportation options:
 
-<img src="/assets/images/conference_transportation_access.jpeg" alt="Map with transportation access to conference site" style="width: 100%; max-width: 100%;">
+<img src="{{ site.baseurl }}/assets/images/conference_transportation_access.jpeg" alt="Map with transportation access to conference site" style="width: 100%; max-width: 100%;">
 
 References
 
@@ -56,7 +56,7 @@ Some hotel options close to Rivadavia Avenue are:
     Av. Hipólito Yrigoyen 4080<a href="https://maps.app.goo.gl/Px9zmwgWKhmFwy4x9" class="map-link" target="_blank">[map ↗]</a><br>
     +54 11 2572-1149
     <a href="https://wa.me/541125721149" class="wap-link" target="_blank">
-      <img src="/assets/images/whatsapp.svg">
+      <img src="{{ site.baseurl }}/assets/images/whatsapp.svg">
     </a><br>
     <a href="https://sancarloshotelba.com" target="_blank">https://sancarloshotelba.com</a><br>
     <a href="mailto:hotelsancarlos@hotmail.com">hotelsancarlos@hotmail.com</a>
@@ -66,7 +66,7 @@ Some hotel options close to Rivadavia Avenue are:
     Yapeyú 271<a href="https://maps.app.goo.gl/apUVBgSMk8iKMj1GA" class="map-link" target="_blank">[map ↗]</a><br>
     +54 11 3471-3312
     <a href="https://wa.me/541134713312" class="wap-link" target="_blank">
-      <img src="/assets/images/whatsapp.svg">
+      <img src="{{ site.baseurl }}/assets/images/whatsapp.svg">
     </a><br>
     <a href="http://www.racodebuenosaires.com.ar/" target="_blank">http://www.racodebuenosaires.com.ar/</a><br>
     <a href="mailto:info@racodebuenosaires.com.ar">info@racodebuenosaires.com.ar</a>
@@ -79,7 +79,7 @@ Some hotel options close to Rivadavia Avenue are:
     Av. Callao 181<a href="https://maps.app.goo.gl/M73QAZGStp4zrjKU7" class="map-link" target="_blank">[map ↗]</a><br>
     +54 11 4370-8000
     <a href="https://wa.me/541143708000" class="wap-link" target="_blank">
-      <img src="/assets/images/whatsapp.svg">
+      <img src="{{ site.baseurl }}/assets/images/whatsapp.svg">
     </a><br>
     <a href="https://www.savoyhotel.com.ar/" target="_blank">https://www.savoyhotel.com.ar/</a><br>
     <a href="mailto:info@savoyhotel.com.ar">info@savoyhotel.com.ar</a>
@@ -112,7 +112,7 @@ conference location:
     Av. Corrientes 3190<a href="https://maps.app.goo.gl/beqbMyFpUj78V7ai8" class="map-link" target="_blank">[map ↗]</a><br>
     +54 11 3987-7117
     <a href="https://wa.me/541121932559" class="wap-link" target="_blank">
-      <img src="/assets/images/whatsapp.svg">
+      <img src="{{ site.baseurl }}/assets/images/whatsapp.svg">
     </a><br>
     <a href="https://abastohotel.com/" target="_blank">https://abastohotel.com/</a><br>
     <a href="mailto:ventas@abastohotel.com">ventas@abastohotel.com</a>
@@ -133,7 +133,7 @@ conference location:
     Av. Díaz Vélez 5124<a href="https://maps.app.goo.gl/32pYiyxz2gcDU3Mm6" class="map-link" target="_blank">[map ↗]</a><br>
     +54 11 6238-1671
     <a href="https://wa.me/541162381671" class="wap-link" target="_blank">
-      <img src="/assets/images/whatsapp.svg">
+      <img src="{{ site.baseurl }}/assets/images/whatsapp.svg">
     </a><br>
     <a href="https://sites.google.com/view/hotelparquecentenario/" target="_blank">https://sites.google.com/view/hotelparquecentenario/</a><br>
   </div>
