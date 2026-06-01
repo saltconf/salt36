@@ -1,74 +1,158 @@
 keynotes:
   name: Keynotes
-  person1_topic:
-    authors:
-    - roberta_pires
-    title: null
-    abstract_formats: null
-    materials_type: null
-    materials_format: null
-  person2_topic:
-    authors:
-    - viola_schmitt
-    title: null
-    abstract_formats: null
-    materials_type: null
-    materials_format: null
-  person3_topic:
-    authors:
-    - violeta_vazquez
-    title: null
-    abstract_formats: null
-    materials_type: null
-    materials_format: null
+
   person4_topic:
     authors:
-    - chris_kennedy
+      - chris_kennedy
     title: null
-    abstract_formats: null
-    materials_type: null
-    materials_format: null
 
+  person1_topic:
+    authors:
+      - roberta_pires_de_oliveira
+    title: "What do bare phrases lay bare?"
+
+  person2_topic:
+    authors:
+      - viola_schmitt
+    title: null
+
+  person3_topic:
+    authors:
+      - violeta_vazquez_rojas_maldonado
+    title: null
 
 talks:
   name: Talks
-  #person1_nouns:
-  #  authors:
-  #  - first_person
-  #  title: Just an example of a talk
-  #  abstract_formats: [md]
-  #  materials_type: slides
-  #  materials_format: pdf
-  #person2_verbs:
-  #  authors:
-  #  - second_person
-  #  - third_person
-  #  title: Another <i>example</i> of a talk
-  #  abstract_formats: [md] 
-  #  materials_type: null
-  #  materials_format: null
 
-posters:
-  name: Posters
-  #person1_poster:
-  #  authors:
-  #  - first_person
-  #  title: Here's a poster!
-  #  lightning_bin: 0
-  #  abstract_formats: [md] 
-  #  materials_format: pdf
-  #person2_poster:
-  #  authors:
-  #  - second_person
-  #  - first_person
-  #  title: Another poster
-  #  lightning_bin: 0
-  #  abstract_formats: [md] 
-  #  materials_format: pdf
-  #person3_poster:
-  #  authors:
-  #  - third_person
-  #  title: 'My Poster: With a Subtitle'
-  #  lightning_bin: 1
-  #  abstract_formats: [md]
-  #  materials_format: null
+  semantics_of_high_negation:
+    authors:
+      - jessica_rett
+    title: "The semantics of high negation"
+    abstract_formats: "https://osf.io/vnaj5/"
+
+
+  when_does_hope_neg_raise:
+    authors:
+      - zahra_mirrazi
+      - ziling_zhu
+      - luisa_kalvelage
+      - hedde_zeijlstra
+    title: "When does 'hope' neg-raise?"
+    abstract_formats: "https://osf.io/ksmy3/files/7qun9"
+
+  static_semantics_and_dynamic_pragmatics:
+    authors:
+      - dmitry_privoznov
+    title: 'Static semantics and "dynamic" pragmatics: Once more on double negation'
+    abstract_formats: "https://osf.io/mh73k"
+
+  quantifying_multiplicity:
+    authors:
+      - patrick_elliott
+      - alexandros_kalomoiros
+      - jacopo_romoli
+    title: "Quantifying multiplicity"
+    abstract_formats: "https://osf.io/vzq82"
+
+
+  infelicity_of_negated_bare_plurals:
+    authors:
+      - haoming_li
+      - yizhen_jiang
+    title: "Infelicity of negated bare plurals: Not presupposition, but Partition by Exhaustification"
+    abstract_formats: "https://osf.io/dszu2"
+
+  not_all_scalar_implicatures:
+    authors:
+      - paloma_jeretic
+      - itai_bassi
+      - aurore_gonzalez
+      - andreea_nicolae
+      - kazuko_yatsushiro
+      - uli_sauerland
+    title: "Not all scalar implicatures are derived from utterable alternatives: evidence from child language acquisition"
+    abstract_formats: "https://osf.io/k9bru"
+
+  deriving_anti_uniqueness_and_non_honorificity:
+    authors:
+      - aidan_sharman
+      - jiayuan_chen
+    title: "Deriving anti-uniqueness and non-honorificity in the Magahi definite marker -wā"
+    abstract_formats: "https://osf.io/mytc7"
+
+  modifying_dimensions:
+    authors:
+      - giuseppe_varaschin
+      - antonio_machicao_y_priemer
+    title: "Modifying dimensions: The case of Brazilian Portuguese binominals"
+    abstract_formats: "https://osf.io/5f8jg"
+
+  evidence_for_wilkinsons_approach:
+    authors:
+      - luis_alonso_ovalle
+      - bernhard_schwarz
+    title: 'Evidence for Wilkinson''s approach to "kind"-DPs'
+    abstract_formats: "https://osf.io/dmv2u"
+
+  restricted_predicate_homogeneity:
+    authors:
+      - janek_guerrini
+    title: "Restricted predicate homogeneity"
+    abstract_formats: "https://osf.io/uk5sq/"
+
+  indefinites_and_their_alternatives:
+    authors:
+      - milica_denic
+    title: "Indefinites and their alternatives"
+    abstract_formats: "https://osf.io/vcbme/"
+
+
+  predicting_projection_variation:
+    authors:
+      - judith_tonhauser
+      - robert_d_hawkins
+      - gregory_scontras
+    title: "Predicting projection variation"
+    abstract_formats: "https://osf.io/7d9ys/"
+
+  narrative_tense_in_khalkha_mongolian:
+    authors:
+      - emily_knick
+    title: "Narrative tense in Khalkha Mongolian"
+    abstract_formats: "https://osf.io/3df82/"
+
+  polyfunctional_demonstrative:
+    authors:
+      - josh_phillips
+    title: "The polyfunctional demonstrative: temporalisation and conditionalisation"
+    abstract_formats: "https://osf.io/ez9r3/"
+
+  unlikely_semantics_for_likely:
+    authors:
+      - james_xinyu_gu
+      - churong_jin
+    title: "An unlikely semantics for ‘likely’"
+    abstract_formats: "https://osf.io/b9pn2/"
+
+
+  preferential_inquisitive_semantics:
+    authors:
+      - yichi_raven_zhang
+    title: "Preferential inquisitive semantics: a unified information model"
+    abstract_formats: "https://osf.io/6jqwr"
+
+  what_if_and_its_kin:
+    authors:
+      - michela_ippolito
+      - anastasia_tsilia
+    title: "What if and its kin"
+    abstract_formats: "https://osf.io/wm965/overview"
+
+  counterfactuals_breaking_substitution:
+    authors:
+      - dean_mchugh
+      - tomasz_klochowicz
+      - ivano_ciardelli
+    title: "Counterfactuals: Breaking Substitution by Changing the Topic"
+    abstract_formats: "https://osf.io/gzwmp"
+

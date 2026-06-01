@@ -5,78 +5,165 @@
 # Session 5: [insert chair]
 # Session 6: [insert chair]
 
-#- day: tuesday
-#  date: Tuesday, May ...
-#  events:
-#  - type: break
-#    name: Registration
-#    time: "8:00–8:45"
-#  - type: welcome
-#    name: Welcome
-#    chairid: first_person
-#    time: "8:45–9:00"
-#  - type: talk_session
-#    name: Talk Session 1
-#    chairid: second_person
-#    subevents:
-#    - time: "9:00-9:40"
-#      talkid: person1_nouns
-#    - time: "9:40-10:20"
-#      talkid: person2_verbs
-#  - type: break
-#    name: Coffee Break
-#    time: "11:00-11:20"
-#  - type: workshop
-#    chairid: first_person
-#    name: Title of the workshop
-#    time: "11:20-12:50"
-#  - type: break
-#    name: Lunch (<i>not provided</i>)
-#    time: "12:50-14:20"
-#  - type: keynote
-#    time: "14:20-15:20"
-#    chairid: third_person
-#    talkid: person2_topic
-#  - type: break
-#    name: Coffee Break
-#    time: "15:20-15:40"
-#  - type: talk_session
-#    name: "Talk Session 2"
-#    chairid: third_person
-#    subevents:
-#    - time: "15:40-16:20"
-#      talkid: ...
-#    - time: "16:20-17:00"
-#      talkid: ...
-#    - time: "17:00-17:40"
-#      talkid: ...
-#  - type: break
-#    name: Happy Hour at ... (<a href="#">map</a>)
-#    time: "18:30–21:00"
-#- day: wednesday
-#  date: Wednesday, May ...
-#  events:
-#  - type: break
-#    name: Run starting from ... 
-#    time: "7:00–8:00"
-#  - type: lightning
-#    chairid: first_person
-#    name: "Lightning Talk Session A"
-#    time: "11:20-12:00"
-#  - type: break
-#    name: Coffee Break
-#    time: "12:00-12:20"
-#  - type: lightning
-#    chairid: first_person
-#    name: "Lightning Talk Session B"
-#    time: "12:20-13:00"
-#  - type: break
-#    name: Lunch (<i>not provided</i>)
-#    time: "13:00-14:30"
-#  - type: keynote
-#    time: "14:30-15:30"
-#    chairid: ...
-#    talkid: ...
-#  - type: break
-#    name: Coffee Break
-#    time: "15:30-15:50"
+- day: wednesday
+  date: Wednesday, July 29
+  events:
+    - type: break
+      name: Registration
+      time: "8:15-8:45"
+
+    - type: welcome
+      name: Welcome and opening remarks
+      time: "8:45-9:00"
+
+    - type: talk_session
+      name: Talk Session 1
+      chairid: session1_chair
+      subevents:
+        - time: "9:00-9:40"
+          talkid: semantics_of_high_negation
+        - time: "9:40-10:20"
+          talkid: when_does_hope_neg_raise
+        - time: "10:20-11:00"
+          talkid: static_semantics_and_dynamic_pragmatics
+
+    - type: break
+      name: Coffee Break
+      time: "11:00-11:20"
+
+    - type: keynote
+      time: "11:20-12:20"
+      chairid: keynote1_chair
+      talkid: person4_topic
+
+    - type: break
+      name: Lunch
+      time: "12:20-13:50"
+
+    - type: poster
+      name: Posters
+      time: "13:50-15:20"
+
+    - type: break
+      name: Coffee Break
+      time: "15:20-15:40"
+
+    - type: talk_session
+      name: Talk Session 2
+      chairid: session2_chair
+      subevents:
+        - time: "15:40-16:20"
+          talkid: quantifying_multiplicity
+        - time: "16:20-17:00"
+          talkid: infelicity_of_negated_bare_plurals
+        - time: "17:00-17:40"
+          talkid: not_all_scalar_implicatures
+
+- day: thursday
+  date: Thursday, July 30
+  events:
+    - type: break
+      name: Registration
+      time: "8:15-9:00"
+
+    - type: talk_session
+      name: Talk Session 3
+      chairid: session3_chair
+      subevents:
+        - time: "9:00-9:40"
+          talkid: deriving_anti_uniqueness_and_non_honorificity
+        - time: "9:40-10:20"
+          talkid: modifying_dimensions
+        - time: "10:20-11:00"
+          talkid: evidence_for_wilkinsons_approach
+
+    - type: break
+      name: Coffee Break
+      time: "11:00-11:20"
+
+    - type: keynote
+      time: "11:20-12:20"
+      chairid: keynote2_chair
+      talkid: person1_topic
+
+    - type: break
+      name: Lunch
+      time: "12:20-13:50"
+
+    - type: poster
+      name: Posters
+      time: "13:50-15:20"
+
+    - type: break
+      name: Coffee Break
+      time: "15:20-15:40"
+
+    - type: talk_session
+      name: Talk Session 4
+      chairid: session4_chair
+      subevents:
+        - time: "15:40-16:20"
+          talkid: restricted_predicate_homogeneity
+        - time: "16:20-17:00"
+          talkid: indefinites_and_their_alternatives
+        - time: "17:00-17:40"
+          talkid: predicting_projection_variation
+
+- day: friday
+  date: Friday, July 31
+  events:
+    - type: break
+      name: Registration
+      time: "8:15-9:00"
+
+    - type: keynote
+      time: "9:00-10:00"
+      chairid: keynote3_chair
+      talkid: person2_topic
+
+    - type: break
+      name: Coffee Break
+      time: "10:00-10:20"
+
+    - type: talk_session
+      name: Talk Session 5
+      chairid: session5_chair
+      subevents:
+        - time: "10:20-11:00"
+          talkid: narrative_tense_in_khalkha_mongolian
+        - time: "11:00-11:40"
+          talkid: polyfunctional_demonstrative
+        - time: "11:40-12:20"
+          talkid: unlikely_semantics_for_likely
+
+    - type: break
+      name: Lunch
+      time: "12:20-13:50"
+
+    - type: poster
+      name: Posters
+      time: "13:50-15:20"
+
+    - type: break
+      name: Coffee Break
+      time: "15:20-15:40"
+
+    - type: talk_session
+      name: Talk Session 6
+      chairid: session6_chair
+      subevents:
+        - time: "15:40-16:20"
+          talkid: preferential_inquisitive_semantics
+        - time: "16:20-17:00"
+          talkid: what_if_and_its_kin
+        - time: "17:00-17:40"
+          talkid: counterfactuals_breaking_substitution
+
+    - type: break
+      name: Coffee Break
+      time: "17:40-18:00"
+
+    - type: keynote
+      time: "18:00-19:00"
+      chairid: keynote4_chair
+      talkid: person3_topic

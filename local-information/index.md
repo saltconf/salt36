@@ -7,7 +7,7 @@ layout: default
 
 All talks and posters at SALT{{ site.saltnum }} will take place on the
 [{{ site.uni }} campus](https://www.filo.uba.ar/) at
-[Bonifacio 1337](https://maps.app.goo.gl/vrV8eWdXkqzMQW976), Autonomous City of Buenos Aires.
+[Bonifacio 1337](https://maps.app.goo.gl/vrV8eWdXkqzMQW976){:target="_blank"}, Autonomous City of Buenos Aires.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d496.8832479054982!2d-58.44599393674301!3d-34.62825390705505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccbd6a553caff%3A0x3158b6a8624e40c!2sEDIFICIO%20ANEXO%20FACULTAD%20FILOSOF%C3%8DA%20(UBA)!5e0!3m2!1ses-419!2sar!4v1779640775124!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
