@@ -18,8 +18,7 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the [Bonifaci
 <!---Talk sessions and on-site registration will take place on the first floor of ..., and coffee breaks will take place on the first floor of .... On Wednesday evening (May ...), there will be a reception concurrent with the poster session, both in ....--->
 
 <p>
-  <!---<b>NB:</b> This schedule is preliminary and subject to change.--->
-   <b>Program : TBD</b>
+<b>NB:</b> This schedule is preliminary and subject to change.
 </p>
 
 {% assign lightning_bin = 0 %}

@@ -4,7 +4,7 @@ keynotes:
   person4_topic:
     authors:
       - chris_kennedy
-    title: null
+    title: TBD
 
   person1_topic:
     authors:
@@ -14,12 +14,12 @@ keynotes:
   person2_topic:
     authors:
       - viola_schmitt
-    title: null
+    title: TBD
 
   person3_topic:
     authors:
       - violeta_vazquez_rojas_maldonado
-    title: null
+    title: TBD
 
 talks:
   name: Talks
