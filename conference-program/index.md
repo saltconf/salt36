@@ -154,19 +154,44 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the [Bonifaci
     {% endfor %}
     {% assign lightning_bin = 1 %}
     {% assign lightning_bin_str = "Two" %}
-    {% elsif event.type == "poster" %}
+{% elsif event.type == "poster" %}
     <tr class="posterChairinfo"><td colspan="3">Poster Session</td></tr>
     <tr class="postertalk">
       <td class="time">{{ event.time }}</td>
       <td class="title" colspan="2">{{ event.name }}</td>
     </tr>
-    {% else %}
-    <tr class="{{ event.type }}">
-      <td class="time">{{ event.time }}</td>
-      <td class="title" colspan="2">{{ event.name }}</td>
-      <td></td>
-    </tr>
-    {% endif %}
+    {% for posterinfo in site.data.presentations.posters %}
+      {% if posterinfo[1].poster_session == event.session %}
+      <tr class="posterInfo">
+        <td class="time">&nbsp;</td>
+        <td class="title">
+          {% if posterinfo[1].abstract_formats contains "http" %}
+            <a href="{{ posterinfo[1].abstract_formats }}">{{ posterinfo[1].title }}</a>
+          {% elsif posterinfo[1].abstract_formats contains "md" %}
+            <a href="{{ "/abstracts/" | append: posterinfo[0] | append: ".html" | relative_url }}">{{ posterinfo[1].title }}</a>
+          {% elsif posterinfo[1].abstract_formats contains "pdf" %}
+            <a href="{{ "/abstracts/" | append: posterinfo[0] | append: ".pdf" | relative_url }}">{{ posterinfo[1].title }}</a>
+          {% else %}
+            {{ posterinfo[1].title }}
+          {% endif %}
+          {% if posterinfo[1].materials_format != null %}
+            [<a href="{{ "/presentation-materials/" | append: posterinfo[0] | append: "." | append: posterinfo[1].materials_format | relative_url }}">poster</a>]
+          {% endif %}
+        </td>
+        <td class="authors">
+          {% for authorid in posterinfo[1].authors %}
+            {% assign author = site.data.people[authorid] %}
+            {% if author.website != null %}
+              <a class="authorwebsite" href="{{ author.website }}">{{ author.name }}</a>
+            {% else %}
+              {{ author.name }}
+            {% endif %}
+            {% unless forloop.last %}<br/>{% endunless %}
+          {% endfor %}
+        </td>
+      </tr>
+      {% endif %}
+    {% endfor %}
     {% endfor %}
   </tbody>
 </table>

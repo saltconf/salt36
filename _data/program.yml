@@ -41,8 +41,9 @@
       time: "12:20-13:50"
 
     - type: poster
-      name: Posters
+      name: Poster Session 1
       time: "13:50-15:20"
+      session: 1
 
     - type: break
       name: Coffee Break
@@ -91,8 +92,9 @@
       time: "12:20-13:50"
 
     - type: poster
-      name: Posters
+      name: Poster Session 2
       time: "13:50-15:20"
+      session: 2
 
     - type: break
       name: Coffee Break
@@ -141,8 +143,9 @@
       time: "12:20-13:50"
 
     - type: poster
-      name: Posters
+      name: Poster Session 3
       time: "13:50-15:20"
+      session: 3
 
     - type: break
       name: Coffee Break
