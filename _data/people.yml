@@ -16,7 +16,7 @@ andres_saab:
 ramiro_caso:
   name: Ramiro Caso
   institutions:
-  - UBA 
+  - UBA
   - IIF/SADAF/CONICET
   website: "https://r-caso.github.io/"
 pablo_zdrojewski:
@@ -100,22 +100,469 @@ martina_lisa:
 ####################
 # Invited speakers #
 ####################
+chris_kennedy:
+  name: Chris Kennedy
+  institutions:
+  - University of Chicago
+  website: "https://semantics.uchicago.edu/kennedy/"
+roberta_pires_de_oliveira:
+  name: Roberta Pires de Oliveira
+  institutions:
+  - Universidade Federal de Santa Catarina
+  website: "https://robertapires.paginas.ufsc.br/"
 viola_schmitt:
   name: Viola Schmitt
   institutions:
   - MIT
   website: "https://sites.google.com/view/viola-schmitt/home"
-violeta_vazquez:
+violeta_vazquez_rojas_maldonado:
   name: Violeta Vázquez Rojas Maldonado
   institutions:
   - El Colegio de México
   website: "https://cell.colmex.mx/es/personal-academico/vazquez-rojas-maldonado-violeta/"
-roberta_pires:
-  name: Roberta Pires de Oliveira
-  institutions:
-  - Universidade Federal de Santa Catarina
-  website: "https://robertapires.paginas.ufsc.br/"
-chris_kennedy:
-  name: Chris Kennedy
-  institutions: University of Chicago
-  website: "https://semantics.uchicago.edu/kennedy/"
+
+#########
+# Talks #
+#########
+jessica_rett:
+  name: Jessica Rett
+  institutions: null
+  website: null
+
+zahra_mirrazi:
+  name: Zahra Mirrazi
+  institutions: null
+  website: null
+
+ziling_zhu:
+  name: Ziling Zhu
+  institutions: null
+  website: null
+
+luisa_kalvelage:
+  name: Luisa Kalvelage
+  institutions: null
+  website: null
+
+hedde_zeijlstra:
+  name: Hedde Zeijlstra
+  institutions: null
+  website: null
+
+dmitry_privoznov:
+  name: Dmitry Privoznov
+  institutions: null
+  website: null
+
+patrick_elliott:
+  name: Patrick Elliott
+  institutions: null
+  website: null
+
+alexandros_kalomoiros:
+  name: Alexandros Kalomoiros
+  institutions: null
+  website: null
+
+jacopo_romoli:
+  name: Jacopo Romoli
+  institutions: null
+  website: null
+
+haoming_li:
+  name: Haoming Li
+  institutions: null
+  website: null
+
+yizhen_jiang:
+  name: Yizhen Jiang
+  institutions: null
+  website: null
+
+paloma_jeretic:
+  name: Paloma Jeretič
+  institutions: null
+  website: null
+
+itai_bassi:
+  name: Itai Bassi
+  institutions: null
+  website: null
+
+aurore_gonzalez:
+  name: Aurore Gonzalez
+  institutions: null
+  website: null
+
+andreea_nicolae:
+  name: Andreea Nicolae
+  institutions: null
+  website: null
+
+kazuko_yatsushiro:
+  name: Kazuko Yatsushiro
+  institutions: null
+  website: null
+
+uli_sauerland:
+  name: Uli Sauerland
+  institutions: null
+  website: null
+
+aidan_sharman:
+  name: Aidan Sharman
+  institutions: null
+  website: null
+
+jiayuan_chen:
+  name: Jiayuan Chen
+  institutions: null
+  website: null
+
+giuseppe_varaschin:
+  name: Giuseppe Varaschin
+  institutions: null
+  website: null
+
+antonio_machicao_y_priemer:
+  name: Antonio Machicao y Priemer
+  institutions: null
+  website: null
+
+luis_alonso_ovalle:
+  name: Luis Alonso Ovalle
+  institutions: null
+  website: null
+
+bernhard_schwarz:
+  name: Bernhard Schwarz
+  institutions: null
+  website: null
+
+janek_guerrini:
+  name: Janek Guerrini
+  institutions: null
+  website: null
+
+milica_denic:
+  name: Milica Denić
+  institutions: null
+  website: null
+
+judith_tonhauser:
+  name: Judith Tonhauser
+  institutions: null
+  website: null
+
+robert_d_hawkins:
+  name: Robert D. Hawkins
+  institutions: null
+  website: null
+
+gregory_scontras:
+  name: Gregory Scontras
+  institutions: null
+  website: null
+
+emily_knick:
+  name: Emily Knick
+  institutions: null
+  website: null
+
+josh_phillips:
+  name: Josh Phillips
+  institutions: null
+  website: null
+
+james_xinyu_gu:
+  name: James Xinyu Gu
+  institutions: null
+  website: null
+
+churong_jin:
+  name: Churong Jin
+  institutions: null
+  website: null
+
+yichi_raven_zhang:
+  name: Yichi Raven Zhang
+  institutions: null
+  website: null
+
+michela_ippolito:
+  name: Michela Ippolito
+  institutions: null
+  website: null
+
+anastasia_tsilia:
+  name: Anastasia Tsilia
+  institutions: null
+  website: null
+
+dean_mchugh:
+  name: Dean McHugh
+  institutions: null
+  website: null
+
+tomasz_klochowicz:
+  name: Tomasz Klochowicz
+  institutions: null
+  website: null
+
+ivano_ciardelli:
+  name: Ivano Ciardelli
+  institutions: null
+  website: null
+
+##########
+# Posters #
+##########
+elizabeth_coppock:
+  name: Elizabeth Coppock
+  institutions: null
+  website: null
+
+dylan_bumford:
+  name: Dylan Bumford
+  institutions: null
+  website: null
+
+adele_henot_mortier:
+  name: Adèle Hénot-Mortier
+  institutions: null
+  website: null
+
+anna_carolina_almeida:
+  name: Anna Carolina Almeida
+  institutions: null
+  website: null
+
+raimundo_cox_casals:
+  name: Raimundo Cox-Casals
+  institutions: null
+  website: null
+
+michael_wagner:
+  name: Michael Wagner
+  institutions: null
+  website: null
+
+bozena_rozwadowska:
+  name: Bożena Rozwadowska
+  institutions: null
+  website: null
+
+marcin_wagiel:
+  name: Marcin Wągiel
+  institutions: null
+  website: null
+
+carlos_munoz_perez:
+  name: Carlos Muñoz Pérez
+  institutions: null
+  website: null
+
+laura_stigliano:
+  name: Laura Stigliano
+  institutions: null
+  website: null
+
+stefan_kaufmann:
+  name: Stefan Kaufmann
+  institutions: null
+  website: null
+
+magdalena_kaufmann:
+  name: Magdalena Kaufmann
+  institutions: null
+  website: null
+
+setayesh_dashti:
+  name: Setayesh Dashti
+  institutions: null
+  website: null
+
+clemens_mayr:
+  name: Clemens Mayr
+  institutions: null
+  website: null
+
+dan_lassiter:
+  name: Dan Lassiter
+  institutions: null
+  website: null
+
+vilde_reksnes:
+  name: Vilde R. S. Reksnes
+  institutions: null
+  website: null
+
+natalia_krasikova:
+  name: Natalia Krasikova
+  institutions: null
+  website: null
+
+malte_zimmermann:
+  name: Malte Zimmermann
+  institutions: null
+  website: null
+
+peter_r_sutton:
+  name: Peter R. Sutton
+  institutions: null
+  website: null
+
+teruyuki_mizuno:
+  name: Teruyuki Mizuno
+  institutions: null
+  website: null
+
+lisa_hofmann:
+  name: Lisa Hofmann
+  institutions: null
+  website: null
+
+jordan_chark:
+  name: Jordan Chark
+  institutions: null
+  website: null
+
+elin_mccready:
+  name: Elin McCready
+  institutions: null
+  website: null
+
+daniel_skibra:
+  name: Daniel Skibra
+  institutions: null
+  website: null
+
+hadil_karawani:
+  name: Hadil Karawani
+  institutions: null
+  website: null
+
+carolin_reinert:
+  name: Carolin Reinert
+  institutions: null
+  website: null
+
+carla_spellerberg:
+  name: Carla Spellerberg
+  institutions: null
+  website: null
+
+nofar_rimon:
+  name: Nofar Rimon
+  institutions: null
+  website: null
+
+jessica_mendes:
+  name: Jéssica Viana Mendes
+  institutions: null
+  website: null
+
+ushasi_banerjee:
+  name: Ushasi Banerjee
+  institutions: null
+  website: null
+
+adina_camelia_bleotu:
+  name: Adina Camelia Bleotu
+  institutions: null
+  website: null
+
+monica_alexandrina_irimia:
+  name: Monica Alexandrina Irimia
+  institutions: null
+  website: null
+
+thomas_roeper:
+  name: Thomas Roeper
+  institutions: null
+  website: null
+
+valeria_gradimondo:
+  name: Valeria Gradimondo
+  institutions: null
+  website: null
+
+giorgio_sbardolini:
+  name: Giorgio Sbardolini
+  institutions: null
+  website: null
+
+sam_alxatib:
+  name: Sam Alxatib
+  institutions: null
+  website: null
+
+julian_grove:
+  name: Julian Grove
+  institutions: null
+  website: null
+
+aaron_steven_white:
+  name: Aaron Steven White
+  institutions: null
+  website: null
+
+huilei_wang:
+  name: Huilei Wang
+  institutions: null
+  website: null
+
+haoze_li:
+  name: Haoze Li
+  institutions: null
+  website: null
+
+florian_schwarz:
+  name: Florian Schwarz
+  institutions: null
+  website: null
+
+todor_koev:
+  name: Todor Koev
+  institutions: null
+  website: null
+
+maryam_mohammadi:
+  name: Maryam Mohammadi
+  institutions: null
+  website: null
+
+vincent_rouillard:
+  name: Vincent Rouillard
+  institutions: null
+  website: null
+
+ana_laura_arrieta_zamudio:
+  name: Ana Laura Arrieta Zamudio
+  institutions: null
+  website: null
+
+ryan_bochnak:
+  name: M. Ryan Bochnak
+  institutions: null
+  website: null
+
+omar_agha:
+  name: Omar Agha
+  institutions: null
+  website: null
+
+nianpo_su:
+  name: Nianpo Su
+  institutions: null
+  website: null
+
+helena_aparicio:
+  name: Helena Aparicio
+  institutions: null
+  website: null
+
+peter_oneill:
+  name: Peter O'Neill
+  institutions: null
+  website: null
