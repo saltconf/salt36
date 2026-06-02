@@ -44,13 +44,15 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the [Bonifaci
         <tr class="talk">
           <td class="time">{{ talk.time }}</td>
           <td class="title">
-            {% if talkinfo.abstract_formats contains "md" %}
-              <a href="{{ "/abstracts/" | append: talk.talkid | append: ".html" | relative_url }}">{{ talkinfo.title }}</a>
+            {% if talkinfo.abstract_formats contains "http" %}
+              <a href="{{ talkinfo.abstract_formats }}">{{ talkinfo.title }}</a>      
+            {% elsif talkinfo.abstract_formats contains "md" %}
+              <a href="/salt34/abstracts/{{ event.talkid }}.html">{{ talkinfo.title }}</a>
             {% elsif talkinfo.abstract_formats contains "pdf" %}
-              <a href="{{ "/abstracts/" | append: talk.talkid | append: ".pdf" | relative_url }}">{{ talkinfo.title }}</a>
+              <a href="/salt34/abstracts/{{ event.talkid }}.pdf">{{ talkinfo.title }}</a>
             {% else %}
-              {{ talkinfo.title }}
-            {% endif %}
+            {{ talkinfo.title }}
+            {% endif %}          
             {% if talkinfo.materials_format != null %}
               [<a href="{{ "/presentation-materials/" | append: talk.talkid | append: "." | append: talkinfo.materials_format | relative_url }}">{{ talkinfo.materials_type }}</a>]
             {% endif %}
