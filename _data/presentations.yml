@@ -156,3 +156,300 @@ talks:
     title: "Counterfactuals: Breaking Substitution by Changing the Topic"
     abstract_formats: "https://osf.io/gzwmp"
 
+posters:
+  name: Posters
+
+  # Sesión 1 (Wednesday, July 29)
+  coppock_pluractional:
+    authors:
+      - elizabeth_coppock
+      - dylan_bumford
+    title: "Pluractional adverbials as incremental quantifiers"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  henot_mortier_remind:
+    authors:
+      - adele_henot_mortier
+    title: '"Remind-me" presuppositions with iterated Speech Acts'
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  almeida_adjectival:
+    authors:
+      - anna_carolina_almeida
+      - raimundo_cox_casals
+      - michael_wagner
+    title: "Adjectival agreement is interpretable: Evidence from summative agreement in Mexican Spanish and Brazilian Portuguese"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  rozwadowska_event:
+    authors:
+      - bozena_rozwadowska
+      - marcin_wagiel
+    title: "Event-derived part-whole structures: Polish collective nominalizations"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  munoz_perez_information:
+    authors:
+      - carlos_munoz_perez
+      - laura_stigliano
+    title: "The information structure of high vs. low negation in Spanish stripping"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  kaufmann_fake:
+    authors:
+      - stefan_kaufmann
+      - magdalena_kaufmann
+    title: "Fake Modality?"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  dashti_pre_exhaustification:
+    authors:
+      - setayesh_dashti
+    title: "Pre-exhaustification and Old Avestan -ever free relatives"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  mayr_weak:
+    authors:
+      - clemens_mayr
+    title: "Weak conceptual identity for anaphora"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  lassiter_truth:
+    authors:
+      - dan_lassiter
+      - vilde_reksnes
+    title: 'Truth, acceptability and "truth": The pragmatics of dependent measures'
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  krasikova_igbo:
+    authors:
+      - natalia_krasikova
+      - malte_zimmermann
+      - peter_r_sutton
+    title: "The expression of Strong and Weak Necessity in Igbo: A simplified degree-based approach"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  # Sesión 2 (Thursday, July 30)
+  mizuno_local:
+    authors:
+      - teruyuki_mizuno
+    title: "Local licensing of O-/X-marking and presupposition satisfaction"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  hofmann_projection:
+    authors:
+      - lisa_hofmann
+    title: "All else being equal—Projection as similarity over context sets"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  chark_modified:
+    authors:
+      - jordan_chark
+    title: "Modified universal quantifiers, exception tolerance and inquiry termination"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  mccready_real:
+    authors:
+      - elin_mccready
+      - daniel_skibra
+      - hadil_karawani
+    title: '"Real" Talk'
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  reinert_world:
+    authors:
+      - carolin_reinert
+      - carla_spellerberg
+    title: "Telling world knowledge and linguistic knowledge apart: experimental evidence for a meaning-based perspective on nominal event arguments"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  rimon_comitatives:
+    authors:
+      - nofar_rimon
+    title: "Who Are You, With? Comitatives Revisited"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  mendes_future:
+    authors:
+      - jessica_mendes
+    title: "On the unavailability of (some) future-of-past readings"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  banerjee_reference:
+    authors:
+      - ushasi_banerjee
+    title: "(De)composing reference: typological perspectives"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  bleotu_null:
+    authors:
+      - adina_camelia_bleotu
+      - monica_alexandrina_irimia
+      - thomas_roeper
+    title: "Mary washes… the dishes or herself? Null objects, reflexivity, and delayed binding in child Romanian"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  gradimondo_quasi:
+    authors:
+      - valeria_gradimondo
+      - giorgio_sbardolini
+    title: "Quasi-negative adverbs and NPI licensing."
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  # Sesión 3 (Friday, July 30)
+  alxatib_local:
+    authors:
+      - sam_alxatib
+    title: "Local contexts in formal alternatives"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  grove_arrows:
+    authors:
+      - julian_grove
+      - aaron_steven_white
+    title: "Arrows for conventional implicature"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  wang_exceptional:
+    authors:
+      - huilei_wang
+      - haoze_li
+    title: "Exceptional scope of universal quantifiers: An illusion of quantificational subordination"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  kalomoiros_linear:
+    authors:
+      - alexandros_kalomoiros
+      - florian_schwarz
+      - jacopo_romoli
+    title: "Linear Order and Projection: The case of extraposed restrictors"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  koev_association:
+    authors:
+      - todor_koev
+      - maryam_mohammadi
+    title: 'Association with Contrastive Topic: Farsi "ke"'
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  rouillard_until:
+    authors:
+      - vincent_rouillard
+    title: "Until and Incremental Homogeinity"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  arrieta_zamudio_coercion:
+    authors:
+      - ana_laura_arrieta_zamudio
+      - ryan_bochnak
+    title: "Challenges for a coercion approach to actuality entailments: Evidence from Ktunaxa"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  agha_focus:
+    authors:
+      - omar_agha
+    title: "Focus feeds non-maximal readings of plurals in out-of-the-blue contexts"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  su_demonstratives:
+    authors:
+      - nianpo_su
+      - helena_aparicio
+    title: "Two types of demonstratives: Experiments in Mandarin and Nuosu Yi"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+
+  oneill_futurate:
+    authors:
+      - peter_oneill
+    title: "Futurate gerundives and epistemic 'see'"
+    lightning_bin: 0
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
