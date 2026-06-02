@@ -154,7 +154,7 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the [Bonifaci
     {% endfor %}
     {% assign lightning_bin = 1 %}
     {% assign lightning_bin_str = "Two" %}
-{% elsif event.type == "poster" %}
+    {% elsif event.type == "poster" %}
     <tr class="posterChairinfo"><td colspan="3">Poster Session</td></tr>
     <tr class="postertalk">
       <td class="time">{{ event.time }}</td>
@@ -192,6 +192,13 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the [Bonifaci
       </tr>
       {% endif %}
     {% endfor %}
+    {% else %}
+    <tr class="{{ event.type }}">
+      <td class="time">{{ event.time }}</td>
+      <td class="title" colspan="2">{{ event.name }}</td>
+      <td></td>
+    </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
