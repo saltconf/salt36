@@ -48,6 +48,7 @@ talks:
 
   quantifying_multiplicity:
     authors:
+      - paul_marty
       - patrick_elliott
       - alexandros_kalomoiros
       - jacopo_romoli
@@ -167,7 +168,7 @@ posters:
     title: "Pluractional adverbials as incremental quantifiers"
     lightning_bin: 0
     poster_session: 1
-    abstract_formats: null
+    abstract_formats: "https://osf.io/xy3g8"
     materials_type: null
     materials_format: null
 
@@ -438,7 +439,7 @@ posters:
     title: "Until and Incremental Homogeinity"
     lightning_bin: 0
     poster_session: 3
-    abstract_formats: null
+    abstract_formats: "https://osf.io/nwcqf"
     materials_type: null
     materials_format: null
 
