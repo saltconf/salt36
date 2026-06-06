@@ -10,10 +10,6 @@
   url: /conference-program/
   relative: true
 
-- title: Abstracts
-  url: /abstracts/
-  relative: true
-
 - title: Registration
   url: /registration/
   relative: true
