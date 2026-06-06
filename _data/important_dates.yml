@@ -16,7 +16,7 @@
 
 - date: "April 15"
   text: "Registration opens"
-  past: false
+  past: true
 
 - date: "June 29"
   text: "Early registration closes"
