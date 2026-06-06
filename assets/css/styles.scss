@@ -2,6 +2,7 @@
 ---
 @use "main";
 
+// styles for local information
 .map-link {
   display: inline-block;
   font-size: 0.65em;
@@ -24,3 +25,20 @@
   height: 1em;
   vertical-align: center;
 }
+
+// styles for program
+tr.posterInfo {
+    background-color: #DAD7CB;
+}
+
+tr.posterInfo td {
+    border-left: none;
+    border-right: 2px solid white;
+    border-top: none;
+    border-bottom: none;
+}
+
+tr.posterChairinfo + tr.posterInfo td {
+    border-top: 2px solid white;
+}
+
