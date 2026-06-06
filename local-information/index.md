@@ -160,15 +160,17 @@ dinner are:
 
 - [Club Portugués](https://maps.app.goo.gl/JSLh4q8fjf5kBfU48){:target="_blank"}
 - [Orgullo](https://maps.app.goo.gl/oJ8UNb9487J1BbCT7){:target="_blank"}
+- [Arena Café](https://maps.app.goo.gl/duU1d6KXnpwZ9rGX9){:target="_blank"}
 - [Bonifacio Bistro](https://maps.app.goo.gl/5KbdfKWLyg7RPPZL6){:target="_blank"}
 - [La posta de Achaval (Argentinian Pizza)](https://maps.app.goo.gl/jjV7uPfc7cSkkF2T6){:target="_blank"}
 - [Napule (Italian Pizza)](https://maps.app.goo.gl/YPqZcjLtEbvT4yab9){:target="_blank"}
 
-### Craft beer
+### Drinks & Craft beer
 
 - [Antares](https://maps.app.goo.gl/9RytVxPE3oW2opkr8){:target="_blank"}
 - [Bélgica](https://maps.app.goo.gl/XpSscRQm4P5aVBsU9){:target="_blank"}
 - [Patagonia](https://maps.app.goo.gl/ZE5UjoxH7Q8YvA6p9){:target="_blank"}
+- [Negroni Bistro](https://maps.app.goo.gl/fpGRsdT6kMqSRbug8){:target="_blank"}
 
 <!--
 ## Music
