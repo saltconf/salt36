@@ -110,9 +110,9 @@ talks:
 
   predicting_projection_variation:
     authors:
-      - judith_tonhauser
-      - robert_d_hawkins
       - gregory_scontras
+      - robert_d_hawkins
+      - judith_tonhauser
     title: "Predicting projection variation"
     abstract_formats: "https://osf.io/7d9ys/"
 
