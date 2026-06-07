@@ -1,0 +1,14 @@
+<!-- Snippet for typesetting titles in the program -->
+{% comment %} _includes/program_title.html {% endcomment %}
+{% assign item = include.info %}
+{% assign id = include.id %}
+
+{% if item.abstract_formats contains "http" %}
+<a href="{{ item.abstract_formats }}">{{ item.title }}</a>
+{% elsif item.abstract_formats contains "md" %}
+<a href="/salt36/abstracts/{{ id }}.md">{{ item.title }}</a>
+{% elsif item.abstract_formats contains "pdf" %}
+<a href="/salt36/abstracts/{{ id }}.pdf">{{ item.title }}</a>
+{% else %}
+{{ item.title }}
+{% endif %}

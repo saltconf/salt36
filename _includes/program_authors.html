@@ -1,0 +1,10 @@
+<!-- Snippet for typesetting author information in the program -->
+{% for authorid in include.author_ids %}
+{% assign author = site.data.people[authorid] %}
+{% if author.website != null %}
+<a class="authorwebsite" href="{{ author.website }}">{{ author.name }}</a>
+{% else %}
+{{ author.name }}
+{% endif %}
+{% unless forloop.last %}<br />{% endunless %}
+{% endfor %}
