@@ -66,11 +66,16 @@ All talks will be streamed via [SALT 36 Youtube channel](https://youtube.com/@sa
           <td class="authors">{% include program_authors.html author_ids=talkinfo.authors %}</td>
         </tr>
       {% elsif event.type == "welcome" %}
-        {% assign chair = site.data.people[event.chairid] %}
-          <tr>
-            <td class="time">{{ event.time }}</td>
-            <td class="title" colspan="2">{{ event.name }} by <a href="{{ chair.website }}">{{ chair.name }}</a></td>
-          </tr>
+        <tr>
+          <td class="time">{{ event.time }}</td>
+          <td class="title" colspan="2">
+            {{ event.name }} by
+            {% for cid in event.chairid %}
+              {% assign chair = site.data.people[cid] %}
+              <a href="{{ chair.website }}">{{ chair.name }}</a>{% unless forloop.last %} and {% endunless %}
+            {% endfor %}
+          </td>
+        </tr>  
       {% else %}
       <tr class="{{ event.type }}">
         <td class="time">{{ event.time }}</td>
