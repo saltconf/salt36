@@ -15,7 +15,8 @@
     - type: welcome
       name: Welcome and opening remarks
       time: "8:45-9:00"
-      chairid: andres_saab and eleonora_orlando
+      chairid: andres_saab 
+      chairid: eleonora_orlando
 
     - type: talk_session
       name: Talk Session 1
