@@ -14,6 +14,14 @@ All talks and posters at SALT{{ site.saltnum }} will take place on the
 
 <hr/>
 
+## Conference dinner
+
+The conference dinner will take place on July 30, 8pm at [Humberto Primo 1470](https://maps.app.goo.gl/TgwTmNKxzVKyQ5Tv8).
+
+The most straightforward way of arriving at the dinner venue is via Uber or Cabify.
+
+<hr/>
+
 ## Transportation
 
 Uber and Cabify are safe and quite cheap for short distances. You can also take
