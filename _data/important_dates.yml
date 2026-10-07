@@ -20,23 +20,24 @@
 
 - date: "June 29"
   text: "Early registration closes"
-  past: false
+  past: true
 
 - date: "June 31"
   text: "Late registration closes"
-  past: false
+  past: true
 
 - date: "July 29"
   text: "Conference begins"
-  past: false
+  past: true
 
 - date: "July 31"
   text: "Conference ends"
-  past: false
+  past: true
 
-# - date: "TBD"
-#   text: "Proceedings submission deadline"
-# 
+- date: "TBD"
+  text: "Proceedings submission deadline"
+  past: false
+ 
 # - date: "TBD"
 #   text: "Proceedings revisions sent out"
 # 

@@ -70,6 +70,10 @@ For questions or comments, please contact <span style="font-family: monospace">[
 </table>
 <hr/>
 
+**IMPORTANT NOTE**: Information about the SALT 36 Proceedings will be made available to all participants as soon as possible.
+
+<hr/>
+
 ## Organizing Committee
 
 <ul id="speakers">
